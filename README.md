@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=LgyQCojUx4M - Hi-Res version
 
 Usage:
 ```bash
-$ iws -f / --fullscreen /  -w 1280 -h 720 / --width 1280 --height 720
+$ hypno-tunnel -f / --fullscreen /  -w 1280 -h 720 / --width 1280 --height 720
 ```
 
 #### What:
