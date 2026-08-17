@@ -234,7 +234,7 @@ int main(int argc, char* argv[]) {
         window_flags |= SDL_WINDOW_FULLSCREEN_DESKTOP;
     }
 
-    SDL_Window* window = SDL_CreateWindow("Linux Demoscene - Parallax Tunnel, Starfield and Isometric Cube Geometry Floor", 
+    SDL_Window* window = SDL_CreateWindow("Linux Demoscene - Parallax Hypno Tunnel w/Starfield and Isometric Cube Floor", 
                                           SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, 
                                           screen_w, screen_h, window_flags);
     
