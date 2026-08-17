@@ -1,6 +1,6 @@
-iws: iws.c
-	gcc -Wall -Wextra -O3 -o iws iws.c -lSDL2 -lSDL2_mixer -lm
-	strip iws
+hypno-tunnel: hypno-tunnel.c
+	gcc -Wall -Wextra -O3 -o hypno-tunnel hypno-tunnel.c -lSDL2 -lSDL2_mixer -lm
+	strip hypno-tunnel
 
 clean:
-	rm -f iws
+	rm -f hypno-tunnel
