@@ -1,4 +1,4 @@
-# isometric-wave-synthesis (iws)
+# hypno-tunnel
 
 A little excercise for myself creating yet another demoscene'ish program, showing off classic Amiga demoscene-like graphics, **On Linux**.
 
