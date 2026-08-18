@@ -4,6 +4,8 @@ A little excercise for myself creating yet another demoscene'ish program, showin
 
 Made with C using SDL2 that implements a perspective checkered spinning tunnel, Bresenham's Line Algortihm moving starfield and a isometric polygon cube moving floor. Now with a soundbyte bgm loop!
 
+Should work on any Linux distribution that has `SDL2` + `SDL2_mixer`.
+
 Demo the demo:
 
 https://www.youtube.com/watch?v=lOe61e6V5B4
