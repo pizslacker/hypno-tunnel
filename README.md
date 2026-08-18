@@ -10,6 +10,11 @@ https://www.youtube.com/watch?v=lOe61e6V5B4
 
 https://www.youtube.com/watch?v=LgyQCojUx4M - Hi-Res version
 
+## Required:
+```bash
+sudo apt-get install build-essential libsdl2-dev libsdl2-mixer-dev
+```
+
 Usage:
 ```bash
 $ hypno-tunnel -f / --fullscreen /  -w 1280 -h 720 / --width 1280 --height 720
